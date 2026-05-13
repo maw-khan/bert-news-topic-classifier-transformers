@@ -199,7 +199,7 @@ The model is evaluated using:
 
 The project includes a real-time Streamlit frontend for interactive news classification.
 
-![News 3](news3.png) 
+![News 3](images/news3.png) 
 
 ---
 
