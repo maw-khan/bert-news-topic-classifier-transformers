@@ -74,6 +74,16 @@ The project uses the **AG News Dataset** available from Hugging Face Datasets.
 | 2 | Business |
 | 3 | Science/Technology |
 
+---
+
+![News 1](images/news1.png) 
+
+---
+
+![News 2](images/news2.png) 
+
+---
+
 ### Dataset Features
 
 - Large-scale news classification dataset
@@ -188,6 +198,10 @@ The model is evaluated using:
 # 💻 Streamlit Web Application
 
 The project includes a real-time Streamlit frontend for interactive news classification.
+
+![News 3](news3.png) 
+
+---
 
 ### Features
 
